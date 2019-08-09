@@ -1,5 +1,5 @@
 var config = {
-    database:'blog',
+    database:'wpyblog',
     username:'root',
     password:'aptx4869',
     host:'localhost',
