@@ -1,9 +1,9 @@
 var config = {
     database:'blog',
     username:'root',
-    password:'123456',
+    password:'aptx4869',
     host:'localhost',
-    port:3300,
+    port:3306,
     poolsize:20
 };
 
